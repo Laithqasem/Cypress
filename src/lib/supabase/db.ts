@@ -25,4 +25,3 @@ migrateDb();
 
 export default db;
 
-//testing
