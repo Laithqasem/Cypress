@@ -1,0 +1,34 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1714097554487,
+      "tag": "0000_tranquil_sway",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1714097938266,
+      "tag": "0001_fuzzy_rockslide",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1714098079203,
+      "tag": "0002_curly_carlie_cooper",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1714099687897,
+      "tag": "0003_overconfident_frog_thor",
+      "breakpoints": true
+    }
+  ]
+}

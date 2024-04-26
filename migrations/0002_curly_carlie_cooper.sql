@@ -1,0 +1,1 @@
+ALTER TABLE "workspacesss" RENAME TO "workspaces";
