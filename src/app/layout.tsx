@@ -3,8 +3,8 @@ import { Inter } from "next/font/google";
 import "./globals.css";
 import db from "@/lib/supabase/db";
 import { ThemeProvider } from "@/lib/providers/next-theme-providers";
-
-const inter = Inter({ subsets: ["latin"] });
+import {DM_Sans} from 'next/font/google'
+const inter = DM_Sans({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Create Next App",
